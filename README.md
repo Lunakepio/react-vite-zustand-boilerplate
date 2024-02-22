@@ -27,3 +27,5 @@ You can also run the project with Docker
 ```bash
   docker-compose up --build
 ```
+
+⚠️ The docker method won't include auto hydration
